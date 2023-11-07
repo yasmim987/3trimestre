@@ -2,14 +2,14 @@ body{
     background-color: aqua;
 }
 
-h1{
+#titulo {
     color: cadetblue;
     font-size: 50px;
     text-align: center;
 }
 
-p {
+.texto {
     color:aliceblue
     font-size: 30px;
     text-align: justify;
-    {
+}
