@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(224, 26, 125), 144, 164);
+    background-color: #e4e4e4
 }
 
 #titulo {
@@ -9,7 +9,7 @@ body{
 }
 
 .texto {
-    color:rgb(14, 228, 192)
+    color:#e4f;
     font-size: 30px;
     text-align: justify;
 }
